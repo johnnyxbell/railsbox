@@ -8,7 +8,6 @@ Includes:
  - Ubuntu 18.04 LTS
  - Latest stable Ruby (via rbenv)
  - Most current version of Bundler & Rails
- - Mysql
  - Postgresql
  - Sqlite
  - Redis
@@ -31,9 +30,6 @@ bundle
 bundle exec rake db:create
 bundle exec rake db:migrate
 ```
-
-## Mysql
-The mysql root password is `root`
 
 ## Postgresql
 PG is installed and the user `vagrant` has permissions to create databases

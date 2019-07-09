@@ -9,10 +9,9 @@ Includes:
  - Latest stable Ruby (via rbenv)
  - Most current version of Bundler & Rails
  - Postgresql
- - Sqlite
  - Redis
  - Git
- - Node.js installed via NVM
+ - Node.js installed via NVM with npm and yarn
  - Chrome and Chromedriver for headless testing
 
 ## Getting started

@@ -39,4 +39,4 @@ MIT
 
 ## Credit
 
-Josh Frye @joshfng on GitHub and Twitter
+Josh Frye @joshfng on GitHub
